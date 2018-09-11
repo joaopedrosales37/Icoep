@@ -1,0 +1,21 @@
+body{
+    
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    left: 30%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#img01 {
+    border:0%; 
+    heigth:auto;
+    width:100%;
+    padding-right:40%;
+    bottom:20%;
+    position:relative;
+}
