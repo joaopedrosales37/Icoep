@@ -1,2 +1,2 @@
 # Icoep
-imagem de apresentação de um projeto de site para a ICOEP
+Amostra de um projeto de site para a ICOEP - PB
